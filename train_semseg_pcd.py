@@ -4,7 +4,7 @@ Date: Nov 2019
 """
 import argparse
 import os
-from data_utils.S3DISDataLoader import S3DISDataset, TOF_TRAIN
+from data_utils.ToFDataLoader import TOF_TRAIN
 import torch
 import datetime
 import logging
@@ -62,8 +62,8 @@ def main(args):
     '''HYPER PARAMETER'''
     os.environ["CUDA_VISIBLE_DEVICES"] = args.gpu
     # for visualizing
-    experiment_dir = 'log/sem_seg/pointnet2_sem_seg' #+ args.log_dir
-    visual_dir = experiment_dir + '/visual/0_eval/no_crap'
+    experiment_dir = 'log/sem_seg/pointnet2_sem_seg'
+    visual_dir = experiment_dir + '/visual/noisy_train_eval'
     visual_dir = Path(visual_dir)
     visual_dir.mkdir(exist_ok=True)
 
@@ -251,8 +251,9 @@ def main(args):
             classifier = classifier.eval()
 
             visual = False
-            # if global_epoch == 31:
-            #     visual = True
+            # COMMENT OUT IF YOU DON'T WANT TO VISUALIZE RESULTS OF LAST EVAL
+            if global_epoch == 31:
+                visual = True
 
             total_time = 0
             log_string('---- EPOCH %03d EVALUATION ----' % (global_epoch + 1))
@@ -365,17 +366,18 @@ def main(args):
     import matplotlib.pyplot as plt
     l = plt.figure(1)
     plt.plot(train_mean_loss, label="Train Loss")
-    plt.plot(test_mean_loss, label="Test Loss")
+    plt.plot(test_mean_loss, label="Validation Loss")
     plt.xlabel('Epochs')
     plt.ylabel('Loss')
+    plt.title('Train and Eval Loss vs Epochs')
     plt.legend()
 
-    # plot loss and accuracy curves
     g = plt.figure(2)
     plt.plot(train_mean_accuracy, label="Train Accuracy")
-    plt.plot(test_mean_accuray, label="Test Accuracy")
+    plt.plot(test_mean_accuray, label="Validation Accuracy")
     plt.xlabel('Epochs')
     plt.ylabel('Accuracy')
+    plt.title('Train and Eval Accuracy vs Epochs')
     plt.legend()
    
     plt.show()

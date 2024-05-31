@@ -3086,3 +3086,369 @@ class back          , IoU: 0.981
 class ceiling       , IoU: 0.934 
 class side          , IoU: 0.959 
 
+2024-05-16 16:21:56,460 - Model - INFO - PARAMETER ...
+2024-05-16 16:21:56,460 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-16 16:22:04,669 - Model - INFO - PARAMETER ...
+2024-05-16 16:22:04,669 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-16 16:46:55,313 - Model - INFO - PARAMETER ...
+2024-05-16 16:46:55,313 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-16 16:47:34,025 - Model - INFO - PARAMETER ...
+2024-05-16 16:47:34,025 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-16 16:47:34,025 - Model - INFO - The number of test data is: 1
+2024-05-16 16:47:46,025 - Model - INFO - PARAMETER ...
+2024-05-16 16:47:46,025 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-16 16:47:46,025 - Model - INFO - The number of test data is: 1
+2024-05-16 16:47:47,324 - Model - INFO - test point avg class IoU: 0.000000
+2024-05-16 16:47:47,324 - Model - INFO - test whole scene point avg class acc: 0.000000
+2024-05-16 16:47:47,324 - Model - INFO - test whole scene point accuracy: 0.000000
+2024-05-16 16:48:10,369 - Model - INFO - PARAMETER ...
+2024-05-16 16:48:10,369 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-16 16:48:10,369 - Model - INFO - The number of test data is: 1
+2024-05-16 16:52:01,573 - Model - INFO - PARAMETER ...
+2024-05-16 16:52:01,573 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-16 16:52:01,574 - Model - INFO - The number of test data is: 1
+2024-05-16 17:57:11,825 - Model - INFO - PARAMETER ...
+2024-05-16 17:57:11,825 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-16 17:57:11,825 - Model - INFO - The number of test data is: 1
+2024-05-16 18:01:51,403 - Model - INFO - PARAMETER ...
+2024-05-16 18:01:51,403 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-16 18:01:51,404 - Model - INFO - The number of test data is: 1
+2024-05-16 18:04:18,100 - Model - INFO - PARAMETER ...
+2024-05-16 18:04:18,101 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-16 18:04:18,101 - Model - INFO - The number of test data is: 1
+2024-05-16 18:07:43,500 - Model - INFO - PARAMETER ...
+2024-05-16 18:07:43,500 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-16 18:07:43,501 - Model - INFO - The number of test data is: 1
+2024-05-16 18:08:45,984 - Model - INFO - PARAMETER ...
+2024-05-16 18:08:45,984 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-16 18:08:45,984 - Model - INFO - The number of test data is: 1
+2024-05-16 18:11:06,838 - Model - INFO - PARAMETER ...
+2024-05-16 18:11:06,838 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-16 18:11:06,839 - Model - INFO - The number of test data is: 1
+2024-05-16 18:11:16,616 - Model - INFO - PARAMETER ...
+2024-05-16 18:11:16,616 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-16 18:11:16,617 - Model - INFO - The number of test data is: 1
+2024-05-20 13:59:04,697 - Model - INFO - PARAMETER ...
+2024-05-20 13:59:04,697 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 13:59:27,761 - Model - INFO - PARAMETER ...
+2024-05-20 13:59:27,761 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 14:02:18,246 - Model - INFO - PARAMETER ...
+2024-05-20 14:02:18,246 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 14:02:29,455 - Model - INFO - PARAMETER ...
+2024-05-20 14:02:29,455 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 14:02:29,456 - Model - INFO - The number of test data is: 1
+2024-05-20 14:03:16,156 - Model - INFO - PARAMETER ...
+2024-05-20 14:03:16,156 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 14:03:16,157 - Model - INFO - The number of test data is: 1
+2024-05-20 14:20:44,649 - Model - INFO - PARAMETER ...
+2024-05-20 14:20:44,649 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 14:20:44,649 - Model - INFO - The number of test data is: 1
+2024-05-20 14:25:59,623 - Model - INFO - PARAMETER ...
+2024-05-20 14:25:59,623 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 14:25:59,624 - Model - INFO - The number of test data is: 1
+2024-05-20 14:26:26,331 - Model - INFO - PARAMETER ...
+2024-05-20 14:26:26,331 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 14:27:09,372 - Model - INFO - PARAMETER ...
+2024-05-20 14:27:09,372 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 14:27:09,377 - Model - INFO - The number of test data is: 1
+2024-05-20 14:29:29,306 - Model - INFO - PARAMETER ...
+2024-05-20 14:29:29,306 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 14:29:29,310 - Model - INFO - The number of test data is: 1
+2024-05-20 14:30:04,862 - Model - INFO - PARAMETER ...
+2024-05-20 14:30:04,862 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 14:30:47,316 - Model - INFO - PARAMETER ...
+2024-05-20 14:30:47,316 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 14:30:47,320 - Model - INFO - The number of test data is: 1
+2024-05-20 14:31:06,750 - Model - INFO - PARAMETER ...
+2024-05-20 14:31:06,750 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 14:31:43,147 - Model - INFO - PARAMETER ...
+2024-05-20 14:31:43,147 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 14:31:43,150 - Model - INFO - The number of test data is: 1
+2024-05-20 14:31:54,039 - Model - INFO - PARAMETER ...
+2024-05-20 14:31:54,039 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 14:32:17,203 - Model - INFO - PARAMETER ...
+2024-05-20 14:32:17,203 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 14:32:29,126 - Model - INFO - PARAMETER ...
+2024-05-20 14:32:29,126 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 14:33:14,363 - Model - INFO - PARAMETER ...
+2024-05-20 14:33:14,363 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 14:34:17,620 - Model - INFO - PARAMETER ...
+2024-05-20 14:34:17,621 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 14:34:35,995 - Model - INFO - PARAMETER ...
+2024-05-20 14:34:35,995 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 14:34:35,996 - Model - INFO - The number of test data is: 1
+2024-05-20 14:36:40,958 - Model - INFO - PARAMETER ...
+2024-05-20 14:36:40,958 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 14:36:40,959 - Model - INFO - The number of test data is: 1
+2024-05-20 14:39:56,761 - Model - INFO - PARAMETER ...
+2024-05-20 14:39:56,761 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 14:39:56,761 - Model - INFO - The number of test data is: 1
+2024-05-20 14:40:53,300 - Model - INFO - PARAMETER ...
+2024-05-20 14:40:53,300 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 14:40:53,300 - Model - INFO - The number of test data is: 1
+2024-05-20 14:44:07,522 - Model - INFO - PARAMETER ...
+2024-05-20 14:44:07,522 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 14:44:07,523 - Model - INFO - The number of test data is: 1
+2024-05-20 14:46:00,671 - Model - INFO - PARAMETER ...
+2024-05-20 14:46:00,671 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 14:46:00,672 - Model - INFO - The number of test data is: 1
+2024-05-20 14:47:31,806 - Model - INFO - PARAMETER ...
+2024-05-20 14:47:31,806 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 14:47:31,807 - Model - INFO - The number of test data is: 1
+2024-05-20 14:47:43,373 - Model - INFO - PARAMETER ...
+2024-05-20 14:47:43,373 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 14:47:43,374 - Model - INFO - The number of test data is: 1
+2024-05-20 14:48:46,382 - Model - INFO - PARAMETER ...
+2024-05-20 14:48:46,382 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 14:49:03,507 - Model - INFO - PARAMETER ...
+2024-05-20 14:49:03,508 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 14:49:03,508 - Model - INFO - The number of test data is: 1
+2024-05-20 14:50:14,816 - Model - INFO - PARAMETER ...
+2024-05-20 14:50:14,816 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 14:50:14,817 - Model - INFO - The number of test data is: 1
+2024-05-20 14:59:53,094 - Model - INFO - PARAMETER ...
+2024-05-20 14:59:53,094 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 14:59:53,095 - Model - INFO - The number of test data is: 1
+2024-05-20 15:01:57,948 - Model - INFO - PARAMETER ...
+2024-05-20 15:01:57,948 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 15:01:57,948 - Model - INFO - The number of test data is: 1
+2024-05-20 15:05:32,580 - Model - INFO - PARAMETER ...
+2024-05-20 15:05:32,580 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 15:05:32,581 - Model - INFO - The number of test data is: 1
+2024-05-20 15:14:58,925 - Model - INFO - PARAMETER ...
+2024-05-20 15:14:58,925 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 15:14:58,926 - Model - INFO - The number of test data is: 1
+2024-05-20 15:22:56,197 - Model - INFO - PARAMETER ...
+2024-05-20 15:22:56,197 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 15:22:56,198 - Model - INFO - The number of test data is: 1
+2024-05-20 15:23:46,747 - Model - INFO - PARAMETER ...
+2024-05-20 15:23:46,747 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 15:23:46,747 - Model - INFO - The number of test data is: 1
+2024-05-20 15:24:27,604 - Model - INFO - PARAMETER ...
+2024-05-20 15:24:27,604 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 15:24:27,605 - Model - INFO - The number of test data is: 1
+2024-05-20 15:25:50,237 - Model - INFO - PARAMETER ...
+2024-05-20 15:25:50,237 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 15:25:50,237 - Model - INFO - The number of test data is: 1
+2024-05-20 15:27:02,966 - Model - INFO - PARAMETER ...
+2024-05-20 15:27:02,966 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 15:27:02,967 - Model - INFO - The number of test data is: 1
+2024-05-20 15:27:58,012 - Model - INFO - PARAMETER ...
+2024-05-20 15:27:58,012 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 15:27:58,013 - Model - INFO - The number of test data is: 1
+2024-05-20 15:30:24,445 - Model - INFO - PARAMETER ...
+2024-05-20 15:30:24,445 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 15:30:24,446 - Model - INFO - The number of test data is: 1
+2024-05-20 15:31:41,916 - Model - INFO - PARAMETER ...
+2024-05-20 15:31:41,916 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 15:31:41,916 - Model - INFO - The number of test data is: 1
+2024-05-20 15:35:03,034 - Model - INFO - PARAMETER ...
+2024-05-20 15:35:03,034 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 15:35:03,035 - Model - INFO - The number of test data is: 1
+2024-05-20 15:47:54,869 - Model - INFO - PARAMETER ...
+2024-05-20 15:47:54,869 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 15:47:54,870 - Model - INFO - The number of test data is: 1
+2024-05-20 15:50:17,322 - Model - INFO - PARAMETER ...
+2024-05-20 15:50:17,322 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 15:50:17,323 - Model - INFO - The number of test data is: 1
+2024-05-20 15:51:16,105 - Model - INFO - PARAMETER ...
+2024-05-20 15:51:16,105 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 15:51:16,106 - Model - INFO - The number of test data is: 1
+2024-05-20 15:52:45,251 - Model - INFO - PARAMETER ...
+2024-05-20 15:52:45,251 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 15:52:45,252 - Model - INFO - The number of test data is: 1
+2024-05-20 16:27:33,643 - Model - INFO - PARAMETER ...
+2024-05-20 16:27:33,643 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 16:27:33,643 - Model - INFO - The number of test data is: 1
+2024-05-20 16:27:49,349 - Model - INFO - PARAMETER ...
+2024-05-20 16:27:49,349 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 16:27:49,350 - Model - INFO - The number of test data is: 1
+2024-05-20 16:29:59,900 - Model - INFO - PARAMETER ...
+2024-05-20 16:29:59,900 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 16:29:59,900 - Model - INFO - The number of test data is: 1
+2024-05-20 17:07:22,985 - Model - INFO - PARAMETER ...
+2024-05-20 17:07:22,985 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 17:07:22,985 - Model - INFO - The number of test data is: 1
+2024-05-20 17:09:20,434 - Model - INFO - PARAMETER ...
+2024-05-20 17:09:20,434 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 17:09:20,435 - Model - INFO - The number of test data is: 1
+2024-05-20 17:10:54,548 - Model - INFO - PARAMETER ...
+2024-05-20 17:10:54,548 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 17:10:54,549 - Model - INFO - The number of test data is: 1
+2024-05-20 17:17:07,717 - Model - INFO - PARAMETER ...
+2024-05-20 17:17:07,717 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-20 17:17:07,717 - Model - INFO - The number of test data is: 1
+2024-05-23 15:55:41,134 - Model - INFO - PARAMETER ...
+2024-05-23 15:55:41,134 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-23 15:55:41,135 - Model - INFO - The number of test data is: 1
+2024-05-23 15:57:38,579 - Model - INFO - PARAMETER ...
+2024-05-23 15:57:38,579 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-23 15:57:38,579 - Model - INFO - The number of test data is: 1
+2024-05-23 15:57:57,434 - Model - INFO - PARAMETER ...
+2024-05-23 15:57:57,434 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-23 15:57:57,435 - Model - INFO - The number of test data is: 1
+2024-05-23 15:59:16,971 - Model - INFO - PARAMETER ...
+2024-05-23 15:59:16,971 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-23 15:59:24,031 - Model - INFO - PARAMETER ...
+2024-05-23 15:59:24,031 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-23 15:59:24,032 - Model - INFO - The number of test data is: 1
+2024-05-23 16:00:40,947 - Model - INFO - PARAMETER ...
+2024-05-23 16:00:40,947 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-23 16:00:40,948 - Model - INFO - The number of test data is: 1
+2024-05-23 16:02:34,034 - Model - INFO - PARAMETER ...
+2024-05-23 16:02:34,034 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-23 16:02:34,035 - Model - INFO - The number of test data is: 1
+2024-05-24 17:19:34,605 - Model - INFO - PARAMETER ...
+2024-05-24 17:19:34,605 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-24 17:19:34,608 - Model - INFO - The number of test data is: 6
+2024-05-24 17:19:36,015 - Model - INFO - test point avg class IoU: 0.959658
+2024-05-24 17:19:36,015 - Model - INFO - test whole scene point avg class acc: 0.982015
+2024-05-24 17:19:36,015 - Model - INFO - test whole scene point accuracy: 0.985171
+2024-05-24 17:19:36,015 - Model - INFO - ------- IoU --------
+class cylinder      , IoU: 0.926 
+class box           , IoU: 0.963 
+class floor         , IoU: 0.976 
+class back          , IoU: 0.993 
+class ceiling       , IoU: 0.928 
+class side          , IoU: 0.971 
+
+2024-05-24 17:21:04,974 - Model - INFO - PARAMETER ...
+2024-05-24 17:21:04,974 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-24 17:21:04,977 - Model - INFO - The number of test data is: 6
+2024-05-24 17:21:06,348 - Model - INFO - test point avg class IoU: 0.962490
+2024-05-24 17:21:06,349 - Model - INFO - test whole scene point avg class acc: 0.983223
+2024-05-24 17:21:06,349 - Model - INFO - test whole scene point accuracy: 0.985485
+2024-05-24 17:21:06,349 - Model - INFO - ------- IoU --------
+class cylinder      , IoU: 0.945 
+class box           , IoU: 0.963 
+class floor         , IoU: 0.980 
+class back          , IoU: 0.991 
+class ceiling       , IoU: 0.939 
+class side          , IoU: 0.958 
+
+2024-05-24 17:34:57,561 - Model - INFO - PARAMETER ...
+2024-05-24 17:34:57,561 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-24 17:34:57,563 - Model - INFO - The number of test data is: 3
+2024-05-24 17:34:58,640 - Model - INFO - test point avg class IoU: 0.970155
+2024-05-24 17:34:58,640 - Model - INFO - test whole scene point avg class acc: 0.982728
+2024-05-24 17:34:58,640 - Model - INFO - test whole scene point accuracy: 0.985798
+2024-05-24 17:34:58,640 - Model - INFO - ------- IoU --------
+class cylinder      , IoU: 0.949 
+class box           , IoU: 0.974 
+class floor         , IoU: 0.967 
+class back          , IoU: 0.983 
+class ceiling       , IoU: 0.983 
+class side          , IoU: 0.964 
+
+2024-05-24 17:41:53,453 - Model - INFO - PARAMETER ...
+2024-05-24 17:41:53,453 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-24 17:41:53,459 - Model - INFO - The number of test data is: 18
+2024-05-24 17:41:56,101 - Model - INFO - test point avg class IoU: 0.970431
+2024-05-24 17:41:56,101 - Model - INFO - test whole scene point avg class acc: 0.984822
+2024-05-24 17:41:56,101 - Model - INFO - test whole scene point accuracy: 0.986842
+2024-05-24 17:41:56,101 - Model - INFO - ------- IoU --------
+class cylinder      , IoU: 0.950 
+class box           , IoU: 0.970 
+class floor         , IoU: 0.976 
+class back          , IoU: 0.989 
+class ceiling       , IoU: 0.967 
+class side          , IoU: 0.971 
+
+2024-05-30 14:10:41,841 - Model - INFO - PARAMETER ...
+2024-05-30 14:10:41,841 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-30 14:10:41,845 - Model - INFO - The number of test data is: 10
+2024-05-30 14:11:51,396 - Model - INFO - PARAMETER ...
+2024-05-30 14:11:51,396 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-30 14:11:51,400 - Model - INFO - The number of test data is: 10
+2024-05-30 14:11:53,232 - Model - INFO - test point avg class IoU: 0.607449
+2024-05-30 14:11:53,232 - Model - INFO - test whole scene point avg class acc: 0.771321
+2024-05-30 14:11:53,232 - Model - INFO - test whole scene point accuracy: 0.761153
+2024-05-30 14:11:53,232 - Model - INFO - ------- IoU --------
+class cylinder      , IoU: 0.461 
+class box           , IoU: 0.597 
+class floor         , IoU: 0.890 
+class back          , IoU: 0.242 
+class ceiling       , IoU: 0.718 
+class side          , IoU: 0.736 
+
+2024-05-30 14:12:26,605 - Model - INFO - PARAMETER ...
+2024-05-30 14:12:26,605 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-30 14:12:26,609 - Model - INFO - The number of test data is: 10
+2024-05-30 14:12:28,425 - Model - INFO - test point avg class IoU: 0.603986
+2024-05-30 14:12:28,425 - Model - INFO - test whole scene point avg class acc: 0.758029
+2024-05-30 14:12:28,425 - Model - INFO - test whole scene point accuracy: 0.758020
+2024-05-30 14:12:28,425 - Model - INFO - ------- IoU --------
+class cylinder      , IoU: 0.431 
+class box           , IoU: 0.579 
+class floor         , IoU: 0.874 
+class back          , IoU: 0.265 
+class ceiling       , IoU: 0.740 
+class side          , IoU: 0.734 
+
+2024-05-31 13:47:45,476 - Model - INFO - PARAMETER ...
+2024-05-31 13:47:45,476 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-31 13:47:45,519 - Model - INFO - The number of test data is: 72
+2024-05-31 14:07:14,840 - Model - INFO - PARAMETER ...
+2024-05-31 14:07:14,840 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-31 14:07:14,884 - Model - INFO - The number of test data is: 72
+2024-05-31 14:07:23,043 - Model - INFO - test point avg class IoU: 0.883535
+2024-05-31 14:07:23,043 - Model - INFO - test whole scene point avg class acc: 0.937898
+2024-05-31 14:07:23,043 - Model - INFO - test whole scene point accuracy: 0.948343
+2024-05-31 14:07:23,044 - Model - INFO - ------- IoU --------
+class cylinder      , IoU: 0.778 
+class box           , IoU: 0.892 
+class floor         , IoU: 0.925 
+class back          , IoU: 0.934 
+class ceiling       , IoU: 0.870 
+class side          , IoU: 0.902 
+
+2024-05-31 14:08:17,560 - Model - INFO - PARAMETER ...
+2024-05-31 14:08:17,560 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-31 14:08:17,602 - Model - INFO - The number of test data is: 72
+2024-05-31 14:08:25,734 - Model - INFO - test point avg class IoU: 0.886073
+2024-05-31 14:08:25,734 - Model - INFO - test whole scene point avg class acc: 0.942777
+2024-05-31 14:08:25,734 - Model - INFO - test whole scene point accuracy: 0.948865
+2024-05-31 14:08:25,734 - Model - INFO - ------- IoU --------
+class cylinder      , IoU: 0.791 
+class box           , IoU: 0.896 
+class floor         , IoU: 0.925 
+class back          , IoU: 0.933 
+class ceiling       , IoU: 0.874 
+class side          , IoU: 0.898 
+
+2024-05-31 14:20:17,190 - Model - INFO - PARAMETER ...
+2024-05-31 14:20:17,190 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-31 14:20:17,199 - Model - INFO - The number of test data is: 1
+2024-05-31 14:21:16,789 - Model - INFO - PARAMETER ...
+2024-05-31 14:21:16,789 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-31 14:21:16,789 - Model - INFO - The number of test data is: 1
+2024-05-31 14:22:57,744 - Model - INFO - PARAMETER ...
+2024-05-31 14:22:57,744 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-31 14:22:57,744 - Model - INFO - The number of test data is: 1
+2024-05-31 14:27:32,330 - Model - INFO - PARAMETER ...
+2024-05-31 14:27:32,330 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-31 14:27:32,339 - Model - INFO - The number of test data is: 1
+2024-05-31 14:29:15,789 - Model - INFO - PARAMETER ...
+2024-05-31 14:29:15,789 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-31 14:29:15,798 - Model - INFO - The number of test data is: 1
+2024-05-31 14:48:39,143 - Model - INFO - PARAMETER ...
+2024-05-31 14:48:39,144 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-31 14:48:39,144 - Model - INFO - The number of test data is: 1
+2024-05-31 15:05:34,483 - Model - INFO - PARAMETER ...
+2024-05-31 15:05:34,483 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-31 15:05:34,484 - Model - INFO - The number of test data is: 1
+2024-05-31 15:07:13,978 - Model - INFO - PARAMETER ...
+2024-05-31 15:07:13,978 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-31 15:07:13,987 - Model - INFO - The number of test data is: 1
+2024-05-31 15:10:22,568 - Model - INFO - PARAMETER ...
+2024-05-31 15:10:22,568 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-31 15:10:22,569 - Model - INFO - The number of test data is: 1
+2024-05-31 15:11:20,557 - Model - INFO - PARAMETER ...
+2024-05-31 15:11:20,557 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-31 15:11:20,566 - Model - INFO - The number of test data is: 1
+2024-05-31 15:12:30,558 - Model - INFO - PARAMETER ...
+2024-05-31 15:12:30,558 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-31 15:12:30,559 - Model - INFO - The number of test data is: 1
+2024-05-31 15:13:46,618 - Model - INFO - PARAMETER ...
+2024-05-31 15:13:46,618 - Model - INFO - Namespace(batch_size=1, gpu='0', num_point=1596, log_dir='pointnet2_sem_seg', visual=True, test_area=5, num_votes=5)
+2024-05-31 15:13:46,619 - Model - INFO - The number of test data is: 1
